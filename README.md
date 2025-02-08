@@ -16,7 +16,7 @@ This dashboard visualizes coffee shop sales data, including key metrics, trends,
    (a).  Peak ordering time: 8 AM - 10 AM (Morning rush).
    (b).  Declining trend throughout the day.
    
-2.Category Sales Distribution:
+ 2.Category Sales Distribution:
   (a). Tea contributes 39% of total sales.
   (b). Bakery items hold 28%, while coffee accounts for 12%.
 
@@ -24,17 +24,17 @@ This dashboard visualizes coffee shop sales data, including key metrics, trends,
   (a). Regular (31%) and Large (30%) orders are the most popular.
   (b). 9% of orders are marked invalid (potential data issue).
 
-4.Top 5 Best-Selling Products:
+ 4.Top 5 Best-Selling Products:
   (a). Barista Espresso: $91,406.20
   (b). Brewed Black Tea: $47,932.00
   (c). Brewed Chai Tea: $77,081.95
   (d). Gourmet Brewed Coffee: $70,034.60
   (e). Hot Chocolate: $72,416.00
 
-5.Store Location Performance:
+ 5.Store Location Performance:
   (a). Highest sales at Hell’s Kitchen ($236,511.17) and Astoria ($232,243.91).
 
-6.Weekday Order Trends:
+ 6.Weekday Order Trends:
   (a).Friday has the highest orders (~21,701), while Saturday has the lowest (~20,510).
 
 
