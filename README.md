@@ -17,8 +17,8 @@ This dashboard visualizes coffee shop sales data, including key metrics, trends,
    (b).  Declining trend throughout the day.
    
  2.Category Sales Distribution:
-  (a). Tea contributes 39% of total sales.
-  (b). Bakery items hold 28%, while coffee accounts for 12%.
+(a). Tea contributes 39% of total sales.
+(b). Bakery items hold 28%, while coffee accounts for 12%.
 
 3. Size Distribution of Orders:
   (a). Regular (31%) and Large (30%) orders are the most popular.
